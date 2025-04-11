@@ -42,6 +42,7 @@
 div{
     border: 3px solid rgb(0, 255, 4);
     border-radius: 5px;
+    background-color: rgb(233, 233, 231);
 }
 
 .img1{
