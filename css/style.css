@@ -21,7 +21,7 @@
 
 .header2{
     color:rgb(97, 216, 0);
-    font-size: 100px;
+    font-size: 101px;
     font-style: oblique;
     font-family: "cursive", monospace;
     margin-top: 20px;
@@ -42,6 +42,7 @@
 div{
     border: 3px solid rgb(0, 255, 4);
     border-radius: 5px;
+    background-color: rgb(233, 233, 231);
 }
 
 .img1{
@@ -57,7 +58,7 @@ div{
 .texto {
     font-size: 18px;
     padding-left: 500px;
-    padding-top: 90px;
+    padding-top: 91px;
     line-height: 1.6;
     
 }
